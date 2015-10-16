@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Hexaware - UI Assignment</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+
+        <link rel="stylesheet" href="css/normalize.css">
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+    <body  style="margin:20px">  
+
+ <div style="float:left">
+  <fieldset style="margin:0px"><b>EMI Calculator</b>
+  <hr/>
+  <blockquote style="border:none">
+    
+    <form>  
+      <p><label>Home Loan Amount</label> 
+        <input type="test" value="1000000" id="HomeLoanAmt">
+      </p>
+      <p> <label>Interest Rate</label> 
+        <input type="test" value="10.5" id="HomeLoanIntRate">
+      </p>
+      <p><label>Loan Tenure</label> 
+        <input type="test" value="10" id="HomeLoanTenure">
+      </p>
+      
+    </form>
+    
+  </blockquote>
+  
+  <hr/>
+    <div style="height:200px">
+    <p>  Loan EMI : &#8377; <lable class="EMI"></label> </p>
+    <p> Total Interest Payable :  &#8377; <lable class="TotalIntrestPayable"></label></p>
+  <p>  Total Payment
+    (Principal + Interest):   &#8377;  <lable class="TotalPayment"></label></p>
+   </div> 
+</fieldset>
+    
+</div>
+
+<div  style="float:left;border:1px solid #ccc">
+<div id="container" style="min-width: 310px; height: 400px; max-width: 600px; margin: 0 auto"></div>
+</div>
+
+
+   
+	
+    </body>
+	<script src="js/vendor/jquery-1.10.2.min.js"></script>
+	<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+	<script src="js/plugins.js"></script>
+	<script src="js/main.js"></script>
+    <script src="js/vendor/highcharts.js"></script>
+    <script src="js/vendor/exporting.js"></script>
+	
+</html>
