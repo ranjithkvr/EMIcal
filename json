@@ -1,0 +1,867 @@
+Api/Authenticate/Jith/@utom@tion@123
+
+"Login Successfully"
+
+---------------------------------------
+
+Api/GetCustomerLast12MonthsTickets
+
+[
+    {
+        "Count": 273,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2017",
+        "Month": "Jun",
+        "RequestType": null,
+        "Date": "2017-01-06T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 971,
+        "CustomerId": 0,
+        "CustomerName": "NARTL002",
+        "Year": "2017",
+        "Month": "Jul",
+        "RequestType": null,
+        "Date": "2017-01-07T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 835,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2017",
+        "Month": "Jul",
+        "RequestType": null,
+        "Date": "2017-01-07T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1377,
+        "CustomerId": 0,
+        "CustomerName": "NARTL002",
+        "Year": "2017",
+        "Month": "Aug",
+        "RequestType": null,
+        "Date": "2017-01-08T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1337,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2017",
+        "Month": "Aug",
+        "RequestType": null,
+        "Date": "2017-01-08T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1890,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2017",
+        "Month": "Sep",
+        "RequestType": null,
+        "Date": "2017-01-09T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1508,
+        "CustomerId": 0,
+        "CustomerName": "NARTL002",
+        "Year": "2017",
+        "Month": "Sep",
+        "RequestType": null,
+        "Date": "2017-01-09T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 807,
+        "CustomerId": 0,
+        "CustomerName": "NARTL001",
+        "Year": "2017",
+        "Month": "Sep",
+        "RequestType": null,
+        "Date": "2017-01-09T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 639,
+        "CustomerId": 0,
+        "CustomerName": "NARTL003",
+        "Year": "2017",
+        "Month": "Sep",
+        "RequestType": null,
+        "Date": "2017-01-09T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 0,
+        "CustomerId": 0,
+        "CustomerName": "APJMNC01",
+        "Year": "2017",
+        "Month": "Sep",
+        "RequestType": null,
+        "Date": "2017-01-09T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 0,
+        "CustomerId": 0,
+        "CustomerName": "EMAINS001",
+        "Year": "2017",
+        "Month": "Sep",
+        "RequestType": null,
+        "Date": "2017-01-09T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2487,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2017",
+        "Month": "Oct",
+        "RequestType": null,
+        "Date": "2017-01-10T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1660,
+        "CustomerId": 0,
+        "CustomerName": "NARTL002",
+        "Year": "2017",
+        "Month": "Oct",
+        "RequestType": null,
+        "Date": "2017-01-10T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1026,
+        "CustomerId": 0,
+        "CustomerName": "NARTL001",
+        "Year": "2017",
+        "Month": "Oct",
+        "RequestType": null,
+        "Date": "2017-01-10T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 996,
+        "CustomerId": 0,
+        "CustomerName": "NARTL003",
+        "Year": "2017",
+        "Month": "Oct",
+        "RequestType": null,
+        "Date": "2017-01-10T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 790,
+        "CustomerId": 0,
+        "CustomerName": "APJMNC01",
+        "Year": "2017",
+        "Month": "Oct",
+        "RequestType": null,
+        "Date": "2017-01-10T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 0,
+        "CustomerId": 0,
+        "CustomerName": "EMAINS001",
+        "Year": "2017",
+        "Month": "Oct",
+        "RequestType": null,
+        "Date": "2017-01-10T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 3065,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2017",
+        "Month": "Nov",
+        "RequestType": null,
+        "Date": "2017-01-11T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2118,
+        "CustomerId": 0,
+        "CustomerName": "NARTL002",
+        "Year": "2017",
+        "Month": "Nov",
+        "RequestType": null,
+        "Date": "2017-01-11T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1303,
+        "CustomerId": 0,
+        "CustomerName": "NARTL001",
+        "Year": "2017",
+        "Month": "Nov",
+        "RequestType": null,
+        "Date": "2017-01-11T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1233,
+        "CustomerId": 0,
+        "CustomerName": "NARTL003",
+        "Year": "2017",
+        "Month": "Nov",
+        "RequestType": null,
+        "Date": "2017-01-11T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1115,
+        "CustomerId": 0,
+        "CustomerName": "APJMNC01",
+        "Year": "2017",
+        "Month": "Nov",
+        "RequestType": null,
+        "Date": "2017-01-11T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 0,
+        "CustomerId": 0,
+        "CustomerName": "EMAINS001",
+        "Year": "2017",
+        "Month": "Nov",
+        "RequestType": null,
+        "Date": "2017-01-11T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 3781,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2017",
+        "Month": "Dec",
+        "RequestType": null,
+        "Date": "2017-01-12T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2632,
+        "CustomerId": 0,
+        "CustomerName": "NARTL002",
+        "Year": "2017",
+        "Month": "Dec",
+        "RequestType": null,
+        "Date": "2017-01-12T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1612,
+        "CustomerId": 0,
+        "CustomerName": "NARTL003",
+        "Year": "2017",
+        "Month": "Dec",
+        "RequestType": null,
+        "Date": "2017-01-12T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1578,
+        "CustomerId": 0,
+        "CustomerName": "APJMNC01",
+        "Year": "2017",
+        "Month": "Dec",
+        "RequestType": null,
+        "Date": "2017-01-12T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1232,
+        "CustomerId": 0,
+        "CustomerName": "NARTL001",
+        "Year": "2017",
+        "Month": "Dec",
+        "RequestType": null,
+        "Date": "2017-01-12T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 4628,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2018",
+        "Month": "Jan",
+        "RequestType": null,
+        "Date": "2018-01-01T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2787,
+        "CustomerId": 0,
+        "CustomerName": "NARTL002",
+        "Year": "2018",
+        "Month": "Jan",
+        "RequestType": null,
+        "Date": "2018-01-01T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1698,
+        "CustomerId": 0,
+        "CustomerName": "APJMNC01",
+        "Year": "2018",
+        "Month": "Jan",
+        "RequestType": null,
+        "Date": "2018-01-01T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1696,
+        "CustomerId": 0,
+        "CustomerName": "NARTL003",
+        "Year": "2018",
+        "Month": "Jan",
+        "RequestType": null,
+        "Date": "2018-01-01T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1426,
+        "CustomerId": 0,
+        "CustomerName": "NARTL001",
+        "Year": "2018",
+        "Month": "Jan",
+        "RequestType": null,
+        "Date": "2018-01-01T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 293,
+        "CustomerId": 0,
+        "CustomerName": "EMAINS001",
+        "Year": "2018",
+        "Month": "Jan",
+        "RequestType": null,
+        "Date": "2018-01-01T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 6046,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2018",
+        "Month": "Feb",
+        "RequestType": null,
+        "Date": "2018-01-02T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 3588,
+        "CustomerId": 0,
+        "CustomerName": "NARTL002",
+        "Year": "2018",
+        "Month": "Feb",
+        "RequestType": null,
+        "Date": "2018-01-02T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2226,
+        "CustomerId": 0,
+        "CustomerName": "NARTL003",
+        "Year": "2018",
+        "Month": "Feb",
+        "RequestType": null,
+        "Date": "2018-01-02T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1912,
+        "CustomerId": 0,
+        "CustomerName": "APJMNC01",
+        "Year": "2018",
+        "Month": "Feb",
+        "RequestType": null,
+        "Date": "2018-01-02T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1666,
+        "CustomerId": 0,
+        "CustomerName": "NARTL001",
+        "Year": "2018",
+        "Month": "Feb",
+        "RequestType": null,
+        "Date": "2018-01-02T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 701,
+        "CustomerId": 0,
+        "CustomerName": "EMAINS001",
+        "Year": "2018",
+        "Month": "Feb",
+        "RequestType": null,
+        "Date": "2018-01-02T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 7655,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2018",
+        "Month": "Mar",
+        "RequestType": null,
+        "Date": "2018-01-03T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 3870,
+        "CustomerId": 0,
+        "CustomerName": "NARTL002",
+        "Year": "2018",
+        "Month": "Mar",
+        "RequestType": null,
+        "Date": "2018-01-03T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2407,
+        "CustomerId": 0,
+        "CustomerName": "NARTL003",
+        "Year": "2018",
+        "Month": "Mar",
+        "RequestType": null,
+        "Date": "2018-01-03T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2205,
+        "CustomerId": 0,
+        "CustomerName": "APJMNC01",
+        "Year": "2018",
+        "Month": "Mar",
+        "RequestType": null,
+        "Date": "2018-01-03T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2138,
+        "CustomerId": 0,
+        "CustomerName": "EMAMNC01",
+        "Year": "2018",
+        "Month": "Mar",
+        "RequestType": null,
+        "Date": "2018-01-03T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2136,
+        "CustomerId": 0,
+        "CustomerName": "NARTL001",
+        "Year": "2018",
+        "Month": "Mar",
+        "RequestType": null,
+        "Date": "2018-01-03T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 822,
+        "CustomerId": 0,
+        "CustomerName": "EMAINS001",
+        "Year": "2018",
+        "Month": "Mar",
+        "RequestType": null,
+        "Date": "2018-01-03T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 9045,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2018",
+        "Month": "Apr",
+        "RequestType": null,
+        "Date": "2018-01-04T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 4257,
+        "CustomerId": 0,
+        "CustomerName": "NARTL002",
+        "Year": "2018",
+        "Month": "Apr",
+        "RequestType": null,
+        "Date": "2018-01-04T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 3820,
+        "CustomerId": 0,
+        "CustomerName": "NARTL003",
+        "Year": "2018",
+        "Month": "Apr",
+        "RequestType": null,
+        "Date": "2018-01-04T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2567,
+        "CustomerId": 0,
+        "CustomerName": "APJMNC01",
+        "Year": "2018",
+        "Month": "Apr",
+        "RequestType": null,
+        "Date": "2018-01-04T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2187,
+        "CustomerId": 0,
+        "CustomerName": "EMAMNC01",
+        "Year": "2018",
+        "Month": "Apr",
+        "RequestType": null,
+        "Date": "2018-01-04T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 2139,
+        "CustomerId": 0,
+        "CustomerName": "NARTL001",
+        "Year": "2018",
+        "Month": "Apr",
+        "RequestType": null,
+        "Date": "2018-01-04T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 1397,
+        "CustomerId": 0,
+        "CustomerName": "EMAINS001",
+        "Year": "2018",
+        "Month": "Apr",
+        "RequestType": null,
+        "Date": "2018-01-04T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    },
+    {
+        "Count": 242,
+        "CustomerId": 0,
+        "CustomerName": "HEXAWARE",
+        "Year": "2018",
+        "Month": "May",
+        "RequestType": null,
+        "Date": "2018-01-05T00:00:00",
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "UseCaseStatus": null
+    }
+]
+
+--------------------------------------------------------------------------------------------------------------
+
+Api/GetResolutionEffortDeduction
+
+[
+    {
+        "CustomerName": "NARTL006",
+        "UseCaseName": null,
+        "AutomationMTTR": "1.0",
+        "ManualMTTR": "10.0",
+        "RequestType": null,
+        "UseCaseStatus": null,
+        "Count": 0,
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "ChildCategory": null,
+        "ParentCategory": null,
+        "ResEffortPercentage": 10
+    },
+    {
+        "CustomerName": "NARTL005",
+        "UseCaseName": null,
+        "AutomationMTTR": "1.0",
+        "ManualMTTR": "10.0",
+        "RequestType": null,
+        "UseCaseStatus": null,
+        "Count": 0,
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "ChildCategory": null,
+        "ParentCategory": null,
+        "ResEffortPercentage": 10
+    },
+    {
+        "CustomerName": "NARTL007",
+        "UseCaseName": null,
+        "AutomationMTTR": "1.0",
+        "ManualMTTR": "10.0",
+        "RequestType": null,
+        "UseCaseStatus": null,
+        "Count": 0,
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "ChildCategory": null,
+        "ParentCategory": null,
+        "ResEffortPercentage": 10
+    },
+    {
+        "CustomerName": "NARTL004",
+        "UseCaseName": null,
+        "AutomationMTTR": "2.0",
+        "ManualMTTR": "15.0",
+        "RequestType": null,
+        "UseCaseStatus": null,
+        "Count": 0,
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "ChildCategory": null,
+        "ParentCategory": null,
+        "ResEffortPercentage": 13.333333333333334
+    },
+    {
+        "CustomerName": "NARTL002",
+        "UseCaseName": null,
+        "AutomationMTTR": "1.9666666666666666",
+        "ManualMTTR": "15.0",
+        "RequestType": null,
+        "UseCaseStatus": null,
+        "Count": 0,
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "ChildCategory": null,
+        "ParentCategory": null,
+        "ResEffortPercentage": 13.111111111111109
+    },
+    {
+        "CustomerName": "EMAINS001",
+        "UseCaseName": null,
+        "AutomationMTTR": "2.2857142857142856",
+        "ManualMTTR": "20.714285714285715",
+        "RequestType": null,
+        "UseCaseStatus": null,
+        "Count": 0,
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "ChildCategory": null,
+        "ParentCategory": null,
+        "ResEffortPercentage": 11.034482758620689
+    },
+    {
+        "CustomerName": "NARTL003",
+        "UseCaseName": null,
+        "AutomationMTTR": "2.8421052631578947",
+        "ManualMTTR": "23.421052631578949",
+        "RequestType": null,
+        "UseCaseStatus": null,
+        "Count": 0,
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "ChildCategory": null,
+        "ParentCategory": null,
+        "ResEffortPercentage": 12.134831460674157
+    },
+    {
+        "CustomerName": "APJMNC01",
+        "UseCaseName": null,
+        "AutomationMTTR": "2.8125",
+        "ManualMTTR": "24.0625",
+        "RequestType": null,
+        "UseCaseStatus": null,
+        "Count": 0,
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "ChildCategory": null,
+        "ParentCategory": null,
+        "ResEffortPercentage": 11.688311688311687
+    },
+    {
+        "CustomerName": "NARTL001",
+        "UseCaseName": null,
+        "AutomationMTTR": "2.7333333333333334",
+        "ManualMTTR": "28.333333333333332",
+        "RequestType": null,
+        "UseCaseStatus": null,
+        "Count": 0,
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "ChildCategory": null,
+        "ParentCategory": null,
+        "ResEffortPercentage": 9.647058823529413
+    },
+    {
+        "CustomerName": "HEXAWARE",
+        "UseCaseName": null,
+        "AutomationMTTR": "3.661290322580645",
+        "ManualMTTR": "32.258064516129032",
+        "RequestType": null,
+        "UseCaseStatus": null,
+        "Count": 0,
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "ChildCategory": null,
+        "ParentCategory": null,
+        "ResEffortPercentage": 11.35
+    },
+    {
+        "CustomerName": "EMAMNC01",
+        "UseCaseName": null,
+        "AutomationMTTR": "6.25",
+        "ManualMTTR": "33.875",
+        "RequestType": null,
+        "UseCaseStatus": null,
+        "Count": 0,
+        "PlannedReleaseDate": "0001-01-01T00:00:00",
+        "ChildCategory": null,
+        "ParentCategory": null,
+        "ResEffortPercentage": 18.450184501845019
+    }
+]
+
+----------------------------------------------------------------------------------------------------------
+
+Report/Api/GetCustomerDetails
+
+[
+    {
+        "CustomerId": "8",
+        "CustomerName": "APJMNC01",
+        "Location": null,
+        "Country": null,
+        "IsActive": false,
+        "OnBoardDate": "2017-10-01",
+        "Domain": "Manufacturing company"
+    },
+    {
+        "CustomerId": "5",
+        "CustomerName": "EMAINS001",
+        "Location": null,
+        "Country": null,
+        "IsActive": false,
+        "OnBoardDate": "2018-01-01",
+        "Domain": "Insurance company"
+    },
+    {
+        "CustomerId": "7",
+        "CustomerName": "EMAMNC01",
+        "Location": null,
+        "Country": null,
+        "IsActive": false,
+        "OnBoardDate": "2017-09-01",
+        "Domain": "Insurance company"
+    },
+    {
+        "CustomerId": "1",
+        "CustomerName": "HEXAWARE",
+        "Location": null,
+        "Country": null,
+        "IsActive": false,
+        "OnBoardDate": "2017-05-01",
+        "Domain": "IT service management company"
+    },
+    {
+        "CustomerId": "2",
+        "CustomerName": "NARTL001",
+        "Location": null,
+        "Country": null,
+        "IsActive": false,
+        "OnBoardDate": "2017-09-01",
+        "Domain": "Retail company"
+    },
+    {
+        "CustomerId": "4",
+        "CustomerName": "NARTL002",
+        "Location": null,
+        "Country": null,
+        "IsActive": false,
+        "OnBoardDate": "2017-07-01",
+        "Domain": "Retail company"
+    },
+    {
+        "CustomerId": "3",
+        "CustomerName": "NARTL003",
+        "Location": null,
+        "Country": null,
+        "IsActive": false,
+        "OnBoardDate": "2017-08-01",
+        "Domain": "Fitness company"
+    }
+]
+
+--------------------------------------------------------------------------------------------------------------------------
+
+Api/GetCustomerWiseAAI/0
+
+{
+    "CustomerId": null,
+    "CustomerName": null,
+    "Released": null,
+    "InProgress": null,
+    "ReleasedCnt": 1343,
+    "InProgressCnt": 610
+}
+Api/GetCustomerWiseAAI/1
+{
+    "CustomerId": null,
+    "CustomerName": null,
+    "Released": null,
+    "InProgress": null,
+    "ReleasedCnt": 584,
+    "InProgressCnt": 119
+}
+Api/GetCustomerWiseAAI/2
+{
+    "CustomerId": null,
+    "CustomerName": null,
+    "Released": null,
+    "InProgress": null,
+    "ReleasedCnt": 155,
+    "InProgressCnt": 86
+}
+
